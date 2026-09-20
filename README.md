@@ -1,16 +1,14 @@
 # Hi, I'm Amin 👋
 
-### Python Developer
+### Software Developer | Python & JavaScript
 
-Python developer focused on building web applications and backend systems with **Django** and the Python ecosystem.
-
-I also work with **JavaScript, React, and Next.js** in real-world projects.
+I build modern web applications using **Python, Django, JavaScript, React, and Next.js**, with experience across backend development, API design, frontend development, databases, and production infrastructure.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-**Backend & Python**
+**Backend**
 
 `Python` `Django` `Django REST Framework` `REST APIs`
 
@@ -122,10 +120,11 @@ The platform features a custom-designed interface with multiple visual themes, c
 
 > ⚠️ **Live website temporarily unavailable — domain is currently under maintenance.**
 
+---
 
 ## 📌 Current Focus
 
-Building web applications and backend systems with Python, Django, React, and Next.js, with a focus on scalable APIs and production-ready systems.
+Building and improving web applications with **Python, Django, JavaScript, React, and Next.js**, with a focus on backend systems, APIs, modern frontend development, and production-ready applications.
 
 ---
 
