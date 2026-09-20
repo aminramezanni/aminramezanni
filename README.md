@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Amin 👋
 
-<!--
-**aminramezanni/aminramezanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Developer
 
-Here are some ideas to get you started:
+I’m a Python developer focused on building web applications and backend systems, with a strong focus on **Django** and the Python ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also work with modern JavaScript technologies, particularly **React** and **Next.js**.
+
+### 🛠️ Technologies & Tools
+
+**Backend & Python**
+
+* Python
+* Django
+* Django REST Framework
+* REST APIs
+* PostgreSQL
+* Redis
+
+**Frontend**
+
+* JavaScript
+* React
+* Next.js
+* HTML
+* CSS
+
+**Development & Infrastructure**
+
+* Git & GitHub
+* Docker
+* Nginx
+* Linux
+
+### 🚀 What I Work On
+
+* Backend development with Python and Django
+* REST API development
+* Database-driven web applications
+* Frontend development with React and Next.js
+* Frontend & backend integration
+* Deployment and production environments
+
+### 📌 Current Focus
+
+Improving my skills in **Python, Django, backend architecture, API development, and modern web technologies**.
+
+### 📫 Contact
+
+**Email:** [aminramezanni@gmail.com](mailto:aminramezanni@gmail.com)
