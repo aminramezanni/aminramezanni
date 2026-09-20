@@ -125,7 +125,7 @@ The platform features a custom-designed interface with multiple visual themes, c
 
 ## 📌 Current Focus
 
-Improving my skills in **Python, Django, backend architecture, API development, and modern web technologies**.
+Building web applications and backend systems with Python, Django, React, and Next.js, with a focus on scalable APIs and production-ready systems.
 
 ---
 
