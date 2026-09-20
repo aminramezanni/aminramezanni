@@ -114,11 +114,11 @@ The platform features a custom-designed interface with multiple visual themes, c
 
 **Dark Theme**
 
-![Avesta Gold Gallery — Dark Theme](./assets/avesta-dark.png)
+![Avesta Dark Theme](avesta-dark.png)
 
 **Light Theme**
 
-![Avesta Gold Gallery — Light Theme](./assets/avesta-light.png)
+![Avesta Light Theme](avesta-light.png)
 
 > ⚠️ **Live website temporarily unavailable — domain is currently under maintenance.**
 
